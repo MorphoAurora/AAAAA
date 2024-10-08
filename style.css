@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 
-
+    
 
 
 }
@@ -236,7 +236,7 @@ li{
 
 .skills{
     width: 100%;
-    height: 700px;
+    height: 800px;
     background-color: #1f1e33;
 }
 
@@ -244,7 +244,7 @@ li{
     width: 1200px;
     height: 500px;
     margin: 0 auto;
-    margin-top: 100px;
+    
     padding-top: 100PX;
 }
 
@@ -319,4 +319,96 @@ li{
     background: url(Yukikaze_2.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+.projects{
+    height: 1200px;
+}
+.contact{
+
+    width: 1200px;
+    height: 800px;
+    margin: 0 auto;
+
+}
+
+.contact h2{
+
+    font: 30px;
+    color: aliceblue;
+
+}
+
+.contact h1{
+
+    font-size: 50px;
+    padding-bottom: 50px;
+
+}
+
+.contact .contents{
+
+    width: 1200px;
+    height: 600px;
+    display: flex;
+
+}
+
+.contact .left{
+
+    width: 400px;
+    height: 600px;
+
+}
+
+.contact .right{
+
+    width: 800px;
+    height: 600px;
+    border: 2px dashed aliceblue;
+    padding-left: 50px;
+}
+
+.info li{
+
+    width: 350px;
+    height: 80px;
+
+    margin-bottom: 20px;
+    border: 1px solid aliceblue;
+    padding: 10px;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.contact .right p{
+
+    font-size: 25px;
+
+}
+
+.contact .right input{
+
+    width: 400px;
+    height: 30px;
+    margin-bottom: 30px;
+    border: solid aliceblue;
+
+}
+
+.contact .right textarea{
+
+    width: 500px;
+    height: 300px;
+    border: solid aliceblue;
+
+}
+
+.contact .right button{
+
+    width: 500px;
+    height: 30px;
+    background-color: aliceblue;
+    color: aliceblue;
+
 }
