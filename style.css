@@ -299,14 +299,10 @@ li{
     font-size: 50px;
 }
 
-.skills .contents li:hover {
-    background-color: aliceblue;
-    color: azure;
-    transform: scale(1.1);
-    transform: rotate(380deg);
 
 
-}
+
+
 
 .skills .contents li:hover i{
     color: aliceblue;
